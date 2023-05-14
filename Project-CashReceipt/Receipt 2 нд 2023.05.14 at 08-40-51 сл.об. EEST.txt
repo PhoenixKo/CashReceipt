@@ -1,0 +1,19 @@
+Receipt{ID - 2
+Created -нд 2023.05.14 at 08-40-51 сл.об. EEST Created by - Pavel
+[Goods{ID=561, name='Dr.Otker Feliciana ', price=6.15, expiration='5/10/2020'}
+, Goods{ID=3012, name='Wheat Bread', price=1.3, expiration='5/6/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+, Goods{ID=12, name='Fanta Orange', price=0.8, expiration='12/5/2019'}
+]
+ RECEIPT TOTAL PRICE - 17.0
+
